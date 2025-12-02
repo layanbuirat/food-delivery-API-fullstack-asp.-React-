@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Food_Delivery": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55663;http://localhost:55664"
+    }
+  }
+}
